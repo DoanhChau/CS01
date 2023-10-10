@@ -1,0 +1,15 @@
+D:\Git\CS\CS10\obj\Debug\net6.0\CS10.csproj.AssemblyReference.cache
+D:\Git\CS\CS10\obj\Debug\net6.0\CS10.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\CS\CS10\obj\Debug\net6.0\CS10.AssemblyInfoInputs.cache
+D:\Git\CS\CS10\obj\Debug\net6.0\CS10.AssemblyInfo.cs
+D:\Git\CS\CS10\obj\Debug\net6.0\CS10.csproj.CoreCompileInputs.cache
+D:\Git\CS\CS10\bin\Debug\net6.0\CS10.exe
+D:\Git\CS\CS10\bin\Debug\net6.0\CS10.deps.json
+D:\Git\CS\CS10\bin\Debug\net6.0\CS10.runtimeconfig.json
+D:\Git\CS\CS10\bin\Debug\net6.0\CS10.dll
+D:\Git\CS\CS10\bin\Debug\net6.0\CS10.pdb
+D:\Git\CS\CS10\obj\Debug\net6.0\CS10.dll
+D:\Git\CS\CS10\obj\Debug\net6.0\refint\CS10.dll
+D:\Git\CS\CS10\obj\Debug\net6.0\CS10.pdb
+D:\Git\CS\CS10\obj\Debug\net6.0\CS10.genruntimeconfig.cache
+D:\Git\CS\CS10\obj\Debug\net6.0\ref\CS10.dll
